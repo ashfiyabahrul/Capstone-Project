@@ -1,0 +1,5 @@
+altair==4.1.0
+lorem_text==2.1
+numerize==0.12
+pandas==1.2.4
+streamlit==1.23.1
